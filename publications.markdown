@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: page
 image: assets/images/pic11.jpg
 nav-menu: true
 title: Nicolas Suzor

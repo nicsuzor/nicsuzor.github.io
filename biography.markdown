@@ -1,8 +1,8 @@
 ---
-layout: single
+layout: page
 image: assets/images/pic11.jpg
 nav-menu: true
-title: Nic Suzor -- Biography
+title: Biography
 permalink: /biography
 author_profile: true
 redirect_from:
