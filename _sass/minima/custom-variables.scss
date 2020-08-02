@@ -1,1 +1,26 @@
 // Placeholder to allow overriding predefined variables smoothly.
+@charset "utf-8";
+
+$brand-color:           #92278F !default;
+$brand-color-light:     lighten($brand-color, 5%) !default;
+$brand-color-dark:      darken($brand-color, 35%) !default;
+
+$site-title-color:      $brand-color-light !default;
+
+$text-color:            #bbbbbb !default;
+$background-color:      #92278F !default;
+$code-background-color: #212121 !default;
+
+$link-base-color:       #92278F !default;
+$link-visited-color:    $link-base-color !default;
+$link-hover-color:      $text-color !default;
+
+$border-color-01:       $brand-color-dark !default;
+$border-color-02:       $brand-color-light !default;
+$border-color-03:       $brand-color !default;
+
+$table-text-color:      $text-color !default;
+$table-zebra-color:     lighten($background-color, 4%) !default;
+$table-header-bg-color: lighten($background-color, 10%) !default;
+$table-header-border:   lighten($background-color, 21%) !default;
+$table-border-color:    $border-color-01 !default;
