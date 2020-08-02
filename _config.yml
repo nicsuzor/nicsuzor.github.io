@@ -1,5 +1,5 @@
 # @Date:   2020-07-15T10:53:03+10:00
-# @Last modified time: 2020-08-02T11:21:23+10:00
+# @Last modified time: 2020-08-02T11:23:13+10:00
 
 # Welcome to Jekyll!
 #
@@ -34,7 +34,7 @@ twitter_username: nicsuzor
 github_username:  nicsuzor
 
 theme: minima
-
+google_analytics: UA-4131259-1
 minima:
   skin: nic
   social_links:
