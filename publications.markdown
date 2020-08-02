@@ -1,10 +1,6 @@
 ---
 layout: page
-image: assets/images/pic11.jpg
-nav-menu: true
 title: Publications
-author_profile: true
-permalink: /publications
 ---
 
 **Full list of publications is [available here](http://eprints.qut.edu.au/view/person/Suzor,_Nicolas.html).**
