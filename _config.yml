@@ -1,5 +1,5 @@
 # @Date:   2020-07-15T10:53:03+10:00
-# @Last modified time: 2020-08-02T10:54:14+10:00
+# @Last modified time: 2020-08-02T11:00:34+10:00
 
 # Welcome to Jekyll!
 #
@@ -26,7 +26,7 @@ email: nic@suzor.com
 
 subtitle: Law professor at QUT's Digital Media Research Centre # site tagline that appears below site title in masthead
 description: >- # this means to ignore newlines until "baseurl:"
-  Law professor. Expert in the governance of digital technologies. Author of Lawless: the secret rules that govern our digital lives. 
+  Law professor. Expert in the governance of digital technologies. Author of Lawless: the secret rules that govern our digital lives.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: kramdown
@@ -34,3 +34,6 @@ twitter_username: nicsuzor
 github_username:  nicsuzor
 
 theme: minima
+
+minima:
+  skin: dark

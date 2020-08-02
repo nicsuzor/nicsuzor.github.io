@@ -1,6 +1,5 @@
 ---
-layout: page
-title: Nicolas Suzor
+layout: home
 permalink: /
 ---
 
