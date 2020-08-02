@@ -1,5 +1,5 @@
 # @Date:   2020-07-15T10:53:03+10:00
-# @Last modified time: 2020-08-02T10:09:45+10:00
+# @Last modified time: 2020-08-02T10:54:14+10:00
 
 # Welcome to Jekyll!
 #
@@ -26,7 +26,7 @@ email: nic@suzor.com
 
 subtitle: Law professor at QUT's Digital Media Research Centre # site tagline that appears below site title in masthead
 description: >- # this means to ignore newlines until "baseurl:"
-  Author of Lawless: the secret rules that govern our digital lives. Leader of the Digital Social Contract research group and a Chief Investigator of the ARC Centre of Excellence for Automated Decision-Making and Society. Researching the governance of the internet and social media, the regulation of AI and automated systems, digital copyright, and knowledge commons. Member of the Oversight Board, an independent organisation that hears appeals and makes binding decisions about what content Facebook and Instagram should allow or remove, based on human rights norms. Award winning educator and founder of Digital Rights Watch.
+  Law professor. Expert in the governance of digital technologies. Author of Lawless: the secret rules that govern our digital lives. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: kramdown
