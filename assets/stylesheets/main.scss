@@ -5,9 +5,9 @@
 @charset "utf-8";
 
 // Theme skin
-//@import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
+@import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
 
-//@import "basically-basic";
+@import "basically-basic";
 
 /* Colors */
 $base-color: #41506b !default;
