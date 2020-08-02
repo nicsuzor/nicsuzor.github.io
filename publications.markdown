@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+permalink: /publications
 ---
 
 **Full list of publications is [available here](http://eprints.qut.edu.au/view/person/Suzor,_Nicolas.html).**

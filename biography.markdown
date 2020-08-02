@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Biography
+permalink: /biography
 ---
 
 [![Nicolas Suzor 2014](https://i1.wp.com/nic.suzor.net/wp-content/uploads/2009/11/Suzor-Nic-2014-square.png?resize=300%2C300&ssl=1)](https://i1.wp.com/nic.suzor.net/wp-content/uploads/2009/11/Suzor-Nic-2014-square.png?ssl=1)
