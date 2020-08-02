@@ -1,5 +1,5 @@
 # @Date:   2020-07-15T10:53:03+10:00
-# @Last modified time: 2020-08-02T11:40:30+10:00
+# @Last modified time: 2020-08-02T12:19:01+10:00
 
 # Welcome to Jekyll!
 #
@@ -46,14 +46,16 @@ search: false
 
 plugins: # previously gems
   - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-remote-theme
 
-minima:
-  skin: dark
-  social_links:
-    twitter: nicsuzor
-    github: nicsuzor
-    linkedin: nicsuzor
-    keybase: nicsuzor
-    youtube: nicsuzor
-    youtube_channel: UCgd6CcJXjvlcWvVbt2VrtcA
-    youtube_channel_name: Nicolas Suzor
+social_links:
+  twitter: nicsuzor
+  github: nicsuzor
+  linkedin: nicsuzor
+  keybase: nicsuzor
+  youtube: nicsuzor
+  youtube_channel: UCgd6CcJXjvlcWvVbt2VrtcA
+  youtube_channel_name: Nicolas Suzor

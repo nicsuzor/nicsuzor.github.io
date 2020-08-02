@@ -4,16 +4,15 @@
 
 @charset "utf-8";
 
+/* Colors */
+$base-color: #41506b;
+$text-color: #90f6d7;
+$accent-color: #92278F;
+$background-color: #263849;
+$code-background-color: #fff;
+$border-color: rgba($text-color, 0.5);
+$overlay-color: #fff;
+
 // Theme skin
 @import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
-
 @import "basically-basic";
-
-/* Colors */
-$base-color: #41506b !default;
-$text-color: #90f6d7 !default;
-$accent-color: #92278F !default;
-$background-color: #263849 !default;
-$code-background-color: #fff !default;
-$border-color: rgba($text-color, 0.5) !default;
-$overlay-color: #fff !default;
