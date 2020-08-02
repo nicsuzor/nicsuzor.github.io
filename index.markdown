@@ -1,6 +1,7 @@
 ---
 layout: home
 permalink: /
+nav-menu: false
 ---
 
 # Law and Digital Media Researcher at QUT
