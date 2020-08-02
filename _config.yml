@@ -1,5 +1,5 @@
 # @Date:   2020-07-15T10:53:03+10:00
-# @Last modified time: 2020-08-02T12:19:01+10:00
+# @Last modified time: 2020-08-02T12:45:48+10:00
 
 # Welcome to Jekyll!
 #
@@ -32,7 +32,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: kramdown
 twitter_username: nicsuzor
 github_username:  nicsuzor
-remote_theme: "mmistakes/jekyll-theme-basically-basic"
+remote_theme: "poole/hyde"
 google_analytics: UA-4131259-1
 
 lang: en-US
@@ -46,9 +46,6 @@ search: false
 
 plugins: # previously gems
   - jekyll-seo-tag
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-paginate
   - jekyll-remote-theme
 
 social_links:
