@@ -1,0 +1,51 @@
+
+$intro-transition: intro 0.3s both !default
+
+
+
+.hero
+  @include clearfix
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: center
+  -webkit-animation: $intro-transition
+  animation: $intro-transition
+  -webkit-animation-delay: 0.25s
+  animation-delay: 0.25s
+  top: 0
+  height: 350px
+
+  wrapper
+    padding-left: 1em
+    padding-right: 1em
+
+    @include breakpoint($x-large)
+      max-width: $x-large
+
+  banner-h1-text
+    color: #fff
+    text-shadow: 1px 1px 4px rgba(#000, 0.5)
+    @include breakpoint($small)
+      font-size: $type-size-1
+
+banner-body-text
+  max-width: $medium
+  position: absolute
+  bottom: 0
+  right: 0
+  margin: 0 auto
+  padding: 2px 5px
+  color: #fff
+  background: #000
+  text-align: right
+  z-index: 5
+  opacity: 0.5
+
+  a
+    color: #fff
+    text-decoration: none
+
+.hero-image
+  width: 100%
+  height: auto
+  -ms-interpolation-mode: bicubic

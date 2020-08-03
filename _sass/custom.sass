@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap')
+
+$accent:           #92278F
+
+$default: #9E9E9E
+$error: #D50000
+$warning: #FF6F00
+$tip: #448AFF
+$case: #388E3C
+$light: #eee
+$dark: #222
+
+$small: 600px !default
+$medium: 768px !default
+$medium-wide: 900px !default
+$large: 1024px !default
+$x-large: 1280px !default
+$max-width: $x-large !default
+/* type scale */
+$type-size-1: 2.441em !default
+// ~39.056px
+$type-size-2: 1.953em !default
+// ~31.248px
+$type-size-3: 1.563em !default
+// ~25.008px
+$type-size-4: 1.25em !default
+// ~20px
+$type-size-5: 1em !default
+// ~16px
+$type-size-6: 0.75em !default
+// ~12px
+$type-size-7: 0.6875em !default
+// ~11px
+$type-size-8: 0.625em !default
+// ~10px
+
+
+html
+  //font-family: 'Roboto Slab'
+  color: green
+
+a
+  color: $accent
+
+.box
+  font-family: 'Roboto Slab', serif
+  background: $light
+  border-left: solid 4px $default
+  overflow: hidden
+  font-size: 90%
+  line-height: 18px
+  max-width: 40em
+  margin: 2em auto
+  padding-left: 6px
+
+  .h5
+    font-size: 1.25rem
+
+  .error
+    border-left: solid 4px $error
+
+    h1, h2, h3, h4, h5
+      color: $error
+      font-weight: bold
+
+.box.case
+  border-left: solid 4px $case
+  max-width: 60em
+
+  h1, h2, h3, h4, h5
+    color: $error
+    font-weight: bold
+
+.box.tip, .legislation
+  border-left: solid 4px $tip
+
+  h1, h2, h3, h4, h5
+    color: $tip
+    font-weight: bold
+
+.box.warning
+  border-left: solid 4px $warning
+
+  h1, h2, h3, h4, h5
+    color: $warning
+    font-weight: bold
