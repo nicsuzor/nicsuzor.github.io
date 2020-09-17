@@ -1,5 +1,5 @@
 # @Date:   2020-07-15T10:53:03+10:00
-# @Last modified time: 2020-08-02T15:52:43+10:00
+# @Last modified time: 2020-09-17T16:01:07+10:00
 
 # Welcome to Jekyll!
 #
@@ -47,6 +47,7 @@ search: false
 plugins: # previously gems
   - jekyll-seo-tag
   - jekyll-remote-theme
+  - jekyll-redirect-from
 
 social_links:
   twitter: nicsuzor
