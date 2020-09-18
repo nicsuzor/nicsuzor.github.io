@@ -1,8 +1,26 @@
 ---
 ---
+
+
+
+
 @import "custom";
 @import "mixins";
 @import "breakpoint/breakpoint";
 
 
 @import "hero";
+@import "icons";
+@import "intro";
+@import "buttons";
+
+/* abstract text */
+.abstract {
+  font-size: 1.25rem;
+  font-weight: 300;
+}
+
+.sidebar .abstract a {
+    color: rgba(255,255,255,.5);
+    font-weight: 400;
+}
