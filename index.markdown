@@ -2,7 +2,21 @@
 layout: splash
 permalink: /
 image: /assets/17209065905_f1fb2dfe92_crop3.jpg
+alt_title: "I research the regulation of networked society."
+# optional call to action links
+actions:
+  - label: "Publications"
+    icon: github  # references name of svg icon, see full list below
+    url: "/publications"
+  - label: "Biography"
+    icon: download  # references name of svg icon, see full list below
+    url: "/bio"
+  - label: "Digital Social Contract lab blog"
+    icon:
+    url: "https://digitalsocialcontract.net/"
+
 ---
+
 
 My research examines the governance of the internet and social networks, the regulation of automated systems, digital copyright, and knowledge commons.  
 
