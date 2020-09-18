@@ -1,5 +1,5 @@
 # @Date:   2020-07-15T10:53:03+10:00
-# @Last modified time: 2020-09-18T19:23:49+10:00
+# @Last modified time: 2020-09-18T23:01:52+10:00
 
 # Welcome to Jekyll!
 #
@@ -43,17 +43,11 @@ author:
 logo: /assets/ns-logo-1.png
 search: false
 
-
+font-awesome:
+  assets: true
+  
 plugins: # previously gems
   - jekyll-seo-tag
   - jekyll-remote-theme
   - jekyll-redirect-from
-
-social_links:
-  twitter: nicsuzor
-  github: nicsuzor
-  linkedin: nicsuzor
-  keybase: nicsuzor
-  youtube: nicsuzor
-  youtube_channel: UCgd6CcJXjvlcWvVbt2VrtcA
-  youtube_channel_name: Nicolas Suzor
+  - jekyll-font-awesome-sass

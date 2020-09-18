@@ -9,8 +9,6 @@ source "https://rubygems.org"
 # Happy Jekylling!
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "github-pages", group: :jekyll_plugins
-gem "jekyll-remote-theme"
-gem "jekyll-theme-basically-basic"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # gem "github-pages", group: :jekyll_plugins
@@ -21,6 +19,7 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-paginate"
   gem "jekyll-remote-theme"
+  gem 'jekyll-fontawesome-svg'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
