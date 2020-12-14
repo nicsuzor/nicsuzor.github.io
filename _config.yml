@@ -1,5 +1,5 @@
 # @Date:   2020-07-15T10:53:03+10:00
-# @Last modified time: 2020-09-18T23:01:52+10:00
+# @Last modified time: 2020-12-15T02:13:51+10:00
 
 # Welcome to Jekyll!
 #
@@ -21,7 +21,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Nicolas Suzor
+title:  Prof Nicolas Suzor | Law and technology professor at QUT's Digital Media Research Centre
 email: nic@suzor.com
 
 subtitle: Law professor at QUT's Digital Media Research Centre # site tagline that appears below site title in masthead
@@ -45,7 +45,7 @@ search: false
 
 font-awesome:
   assets: true
-  
+
 plugins: # previously gems
   - jekyll-seo-tag
   - jekyll-remote-theme

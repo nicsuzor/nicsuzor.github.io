@@ -13,7 +13,7 @@ actions:
   - label: "Digital Social Contract lab blog"
     icon:
     url: "https://digitalsocialcontract.net/"
-title: Prof Nicolas Suzor | Law and technology professor at QUT's Digital Media Research Centre
+title: Prof Nicolas Suzor
 alt_title: home
 ---
 
