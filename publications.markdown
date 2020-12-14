@@ -11,25 +11,23 @@ Lawless is about the power that technology companies have over our lives and how
 
 ## Platform governance and intermediary liability
 
-Suzor, Nicolas, Myers West, Sarah, Quodling, Andrew, & York, Jillian (2019) [What do we mean when we talk about transparency? Towards meaningful transparency in commercial content moderation](https://eprints.qut.edu.au/126386/). International Journal of Communication, 13, pp. 1526-1543.
+Suzor, Nicolas, Myers West, Sarah, Quodling, Andrew, & York, Jillian (2019) [What do we mean when we talk about transparency? Towards meaningful transparency in commercial content moderation](https://eprints.qut.edu.au/126386/). _International Journal of Communication_, 13, pp. 1526-1543.
 
-Suzor, Nicolas, Dragiewicz, Molly, Harris, Bridget, Gillett, Rosalie, Burgess, Jean, & Van Geelen, Tess (2019) [Human rights by design: The responsibilities of social media platforms to address gender-based violence online](https://eprints.qut.edu.au/121223/). Policy and Internet, 11(1), pp. 54-103.
+Suzor, Nicolas, Dragiewicz, Molly, Harris, Bridget, Gillett, Rosalie, Burgess, Jean, & Van Geelen, Tess (2019) [Human rights by design: The responsibilities of social media platforms to address gender-based violence online](https://eprints.qut.edu.au/121223/). _Policy and Internet_, 11(1), pp. 54-103.
 
-Flew, Terry, Martin, Fiona, & Suzor, Nicolas (2019) [Internet regulation as media policy: Rethinking the question of digital communication platform governance](https://eprints.qut.edu.au/126702/). Journal of Digital Media and Policy, 10(1), pp. 33-50.
+Flew, Terry, Martin, Fiona, & Suzor, Nicolas (2019) [Internet regulation as media policy: Rethinking the question of digital communication platform governance](https://eprints.qut.edu.au/126702/). _Journal of Digital Media and Policy_, 10(1), pp. 33-50.
 
-Witt, Alice Elizabeth Amelia, Suzor, Nicolas, & Huggins, Anna (2019) [The rule of law on Instagram: An evaluation of the moderation of images depicting women’s bodies](https://eprints.qut.edu.au/129978/). The University of New South Wales law journal, 42(2), pp. 557-596.
+Witt, Alice Elizabeth Amelia, Suzor, Nicolas, & Huggins, Anna (2019) [The rule of law on Instagram: An evaluation of the moderation of images depicting women’s bodies](https://eprints.qut.edu.au/129978/). _The University of New South Wales law journal_, 42(2), pp. 557-596.
 
 Suzor, Nicolas (2018) [Digital constitutionalism: Using the rule of law to evaluate the legitimacy of governance by platforms.](https://eprints.qut.edu.au/120050/) _Social Media + Society_, _4_(3), pp. 1-11.
 
-Duguay, Stefanie, Burgess, Jean, & Suzor, Nicolas (2018) [Queer women’s experiences of patchwork platform governance on Tinder, Instagram, and Vine.](https://eprints.qut.edu.au/119319/) _Convergence: The International Journal of Research into New Media Technologies_. (In Press)
+Duguay, Stefanie, Burgess, Jean, & Suzor, Nicolas (2018) [Queer women’s experiences of patchwork platform governance on Tinder, Instagram, and Vine.](https://eprints.qut.edu.au/119319/) _Convergence: The International Journal of Research into New Media Technologies_, 26(2), pp. 237-252.
 
 Suzor, Nicolas, Van Geelen, Tess, & Myers West, Sarah (2018) [Evaluating the legitimacy of platform governance: A review of research and a shared research agenda.](https://eprints.qut.edu.au/112749/) _International Communication Gazette_, _80_(4), pp. 385-400.
 
-Suzor, Nicolas P., Dragiewicz, Molly, Harris, Bridget, Gillett, Rosalie, Burgess, Jean, & Van Geelen, Tess (2018) [Human rights by design: The responsibilities of social media platforms to address gender-based violence online](https://eprints.qut.edu.au/121223/). Policy & Internet. (In Press)
+Flew, Terry & Suzor, Nicolas P. (2018) [Global media industries and media policy](https://eprints.qut.edu.au/121480/). In Deuze, Mark & Prenger, Mirjam (Eds.) _Making Media_. Amsterdam University Press, The Netherlands, pp. 163-174
 
-Flew, Terry & Suzor, Nicolas P. (2018) [Global media industries and media policy](https://eprints.qut.edu.au/121480/). In Deuze, Mark & Prenger, Mirjam (Eds.) Making Media. Amsterdam University Press, Amsterdam, pp. 159-170. (In Press)
-
-Suzor, Nicolas P. & Pappalardo, Kylie M. (2018) [The liability of Australian online intermediaries.](https://eprints.qut.edu.au/116142/) _Sydney Law Review_. (In Press)
+Pappalardo, Kylie M. & Suzor, Nicolas P. (2018) [The liability of Australian online intermediaries.](https://eprints.qut.edu.au/116142/) _Sydney Law Review_. 40(4), pp. 469-498.
 
 Dragiewicz, Molly, Burgess, Jean, Matamoros-Fernandez, Ariadna, Salter, Michael, Suzor, Nicolas P., Woodlock, Delanie, et al. (2018) [Technology facilitated coercive control: Domestic violence and the competing roles of digital media platforms.](https://eprints.qut.edu.au/116016/) _Feminist Media Studies_, _18_(4), pp. 609-625.
 
@@ -59,7 +57,7 @@ Suzor, Nicolas P., Choi, Rachel, & Pappalardo, Kylie M. (2016) [Moments of flux 
 
 Dootson, Paula & Suzor, Nicolas P. (2015) [The game of clones and the Australia tax : divergent views about copyright business models and the willingness of Australian consumers to infringe.](https://eprints.qut.edu.au/75933/) _University of New South Wales Law Journal_, _38_(1), pp. 206-239.
 
-Hunter, Dan & Suzor, Nicolas P. (2015) [Claiming the moral high ground in the copyright wars.](https://eprints.qut.edu.au/85010/) In McGuinness, Phillipa (Ed.) \_Copyfight : Firing Up Conversation about Copyright.\_NewSouth Publishing, University of New South Wales Press, Sydney, Australia, pp. 131-145.
+Hunter, Dan & Suzor, Nicolas P. (2015) [Claiming the moral high ground in the copyright wars.](https://eprints.qut.edu.au/85010/) In McGuinness, Phillipa (Ed.) \_Copyfight : Firing Up Conversation about Copyright. _NewSouth Publishing, University of New South Wales Press_, Sydney, Australia, pp. 131-145.
 
 Harpur, Paul & Suzor, Nicolas P. (2014) [The paradigm shift in realising the right to read : how ebook libraries are enabling in the university sector.](https://eprints.qut.edu.au/78325/) _Disability and Society_, _29_(10), pp. 1658-1671.
 

@@ -13,19 +13,19 @@ actions:
   - label: "Digital Social Contract lab blog"
     icon:
     url: "https://digitalsocialcontract.net/"
-title: I research the regulation of networked society.
+title: Prof Nicolas Suzor | Law and technology professor at QUT's Digital Media Research Centre
 alt_title: home
 ---
 
 
-My research examines the governance of the internet and social networks, the regulation of automated systems, digital copyright, and knowledge commons.  
+My research examines the governance of the digital technologies. I study inequality in automated systems and digital platforms, and I work to help make tech more accountable and fair.
 
 
 *   Professor in the [School of Law](http://law.qut.edu.au) at Queensland University of Technology
 
-*   One of the Chief Investigators of the [QUT Digital Media Research Centre](http://qut.edu.au/research/dmrc/), where I lead the [Digital Social Contract](https://research.qut.edu.au/dmrc/programs/the-digital-social-contract/) research program.
+*   I lead the [Digital Social Contract](https://research.qut.edu.au/dmrc/programs/the-digital-social-contract/) research program in  QUT's [Digital Media Research Centre](http://qut.edu.au/research/dmrc/).
 
-*   Chief Investigator of the [ARC Centre of Excellence for Automated Decision-Making and Society](https://admscentre.org.au), where I co-lead the Institutions program, studying how to improve the governance of automated systems.
+*   I am a Chief Investigator of the [ARC Centre of Excellence for Automated Decision-Making and Society](https://admscentre.org.au), where I co-lead the Institutions program, studying how to improve the governance of automated systems.
 
 *   Member, [Oversight Board](https://oversightboard.com), an independent organisation that hears appeals and makes binding decisions about what content Facebook and Instagram should allow or remove, based on human rights norms.
 
