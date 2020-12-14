@@ -1,5 +1,5 @@
 # @Date:   2020-07-15T10:53:03+10:00
-# @Last modified time: 2020-12-15T02:27:47+10:00
+# @Last modified time: 2020-12-15T02:50:54+10:00
 
 # Welcome to Jekyll!
 #
@@ -21,7 +21,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title:  Prof Nicolas Suzor
+title: Nicolas Suzor
 email: nic@suzor.com
 
 # site tagline that appears below site title in masthead
