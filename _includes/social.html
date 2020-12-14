@@ -1,13 +1,9 @@
-{% if site.data.social_links %}
 <div id="social-media">
   <!-- social icons -->
-	<a href="https://twitter.com/nicsuzor">{% fa_svg fab.fa-twitter %}</a>
-	<a href="https://linkedin.com/nicsuzor">{% fa_svg fab.fa-linkedin %}</a>
-	<a href="https://github.com/nicsuzor">{% fa_svg fab.fa-github %}</a>
-  <a href="https://keybase.io/nicsuzor">{% fa_svg fab.fa-keybase %}</a>
-	<a href="https://scholar.google.com/citations?user=oSSpUscAAAAJ">{% fa_svg fas.fa-graduation-cap %}</a>
-	<a href="mailto://{{ site.email }}">{% fa_svg fas.fa-envelope %}</a>
+	<a href="https://twitter.com/nicsuzor<i class="fas fa-twitter"></i></a>
+	<a href="https://linkedin.com/nicsuzor"><i class="fas fa-linkedin"></i></a>
+	<a href="https://github.com/nicsuzor"><i class="fas fa-github"></i></a>
+  <a href="https://keybase.io/nicsuzor"><i class="fas fa-keybase"></i></a>
+	<a href="https://scholar.google.com/citations?user=oSSpUscAAAAJ"><i class="fas fa-graduation-cap"></a>
+	<a href="mailto://{{ site.email }}"><i class="fas fa-envelope"></i></a>
 </div>
-{% fa_svg_generate %}
-
-{% endif %}
