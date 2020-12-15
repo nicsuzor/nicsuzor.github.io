@@ -1,5 +1,5 @@
 # @Date:   2020-07-15T10:53:03+10:00
-# @Last modified time: 2020-12-15T10:47:03+10:00
+# @Last modified time: 2020-12-15T10:49:36+10:00
 
 # Welcome to Jekyll!
 #
@@ -29,7 +29,7 @@ subtitle: Law and technology professor at QUT's Digital Media Research Centre
 
 description: >- # this means to ignore newlines until "baseurl:"
   Law professor. Expert in the governance of digital technologies. Author of <a href="https://www.amazon.com/Lawless-Secret-Rules-Govern-Digital/dp/1108740472/">Lawless: the secret rules that govern our digital lives.
-baseurl: "//" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: kramdown
 twitter_username: nicsuzor
