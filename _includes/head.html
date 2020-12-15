@@ -7,10 +7,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
   <title>
-    {% if page.title == "Home" || page.alt_title == "Home" %}
+    {% if page.html-title %}
+        {{ page.html-title }}
+    {% elsif page.title == "Home" ||  page.title == site.title || page.alt_title == "Home" %}
       {{ site.title }} &middot; {{ site.subtitle }}
     {% else %}
-      {{ page.title }} &middot; {{ site.title }}
+      {{ site.title }} &middot; {{ page.title }}
     {% endif %}
   </title>
 

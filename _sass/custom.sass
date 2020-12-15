@@ -38,9 +38,6 @@ $type-size-7: 0.6875em !default
 $type-size-8: 0.625em !default
 // ~10px
 
-.social-media .icon
-
-
 
 html
   //font-family: 'Roboto Slab'
@@ -52,6 +49,22 @@ html
 a
   color: $accent
   font-weight: bold
+
+.splash-content-disabled
+  a
+    background-color: $accent
+    color: #fff
+    font-weight: bold
+    //text-decoration: none
+    padding: 0em 0.5em
+
+    &:hover
+      background-color: tint($accent, 20%)
+      color: #fff
+
+
+    &:focus
+      background-color: shade($accent, 20%)
 
 .box
   font-family: 'Roboto Slab', serif
